@@ -1,0 +1,1 @@
+El error de la resta solo aceptara números naturales, ni números enteros, ni números fraccionarios..., dando su resultado un número no natural sino la historia usuario no funcionaria.
