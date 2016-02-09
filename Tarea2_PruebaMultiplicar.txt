@@ -1,0 +1,6 @@
+Se haran los test para la multiplicacion de dos números naturales.
+
+La siguiente funcionalidad se comprobaran como por ejemplo lo siguiente:
+
+4*3=12
+2*1=2
