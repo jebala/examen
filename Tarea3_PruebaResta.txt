@@ -1,0 +1,6 @@
+Se haran los test para la resta de dos números naturales.
+
+La siguiente funcionalidad se comprobaran como por ejemplo lo siguiente:
+
+4-3=1
+2-1=1

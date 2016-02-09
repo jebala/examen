@@ -1,0 +1,7 @@
+Se realiza la historia de usuario de siguiente prioridad la resta que se divide en las siguientes tareas.
+
+- Prueba resta, estas pruebas serían la que se utilizarian para que la funcionalidad de la historia de usuario resta fuera correcta y hasta que estas pruebas no estuvieran realizadas no se podria pasar a inicializar dicha historia de usuario 
+
+- Resta, esta tarea se utilizara para inicializar la H usuario 2
+	
+- Refactoring de resta, en esta tarea se intentara mejorar el codigo de la historia de usuario y por ultimo se dará por finalizada

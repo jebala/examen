@@ -1,0 +1,7 @@
+Se realiza la historia de usuario de siguiente prioridad y la de menor prioridad es opcional que seria la de números romanos que se divide en las siguientes tareas.
+
+- Prueba números romanos, estas pruebas serían la que se utilizarian para que la funcionalidad de la historia de usuario multiplicar fuera correcta y hasta que estas pruebas no estuvieran realizadas no se podria pasar a inicializar dicha historia de usuario 
+
+- Números romanos, esta tarea se utilizara para inicializar la H usuario 3, consistira en comprobar cada número romano con el número al que corresponda
+	
+- Refactoring de números romanos, en esta tarea se intentara mejorar el codigo de la historia de usuario y por ultimo se dará por finalizada
