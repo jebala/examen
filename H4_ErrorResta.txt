@@ -1,0 +1,8 @@
+Se realiza la historia de usuario de siguiente prioridad la de error de la resta que se divide en las siguientes tareas.
+
+- Prueba del error de la resta, estas pruebas serían la que se utilizarian para que la funcionalidad de la historia de usuario multiplicar fuera correcta y hasta que estas pruebas no estuvieran realizadas no se podria pasar a inicializar dicha historia de usuario 
+
+- Error resta, esta tarea se utilizara para inicializar la H usuario 4 que consistiria en realizar alguna resta que no diera como resultado un número natural. 
+Por ejemplo. 4 - 5 = -1 (no daria un número natural)
+	
+- Refactoring de error resta, en esta tarea se intentara mejorar el codigo de la historia de usuario y por ultimo se dará por finalizada
