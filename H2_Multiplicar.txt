@@ -1,0 +1,7 @@
+Se realiza la historia de usuario de siguiente prioridad la de multiplicar que se divide en las siguientes tareas.
+
+- Prueba multiplicar, estas pruebas serían la que se utilizarian para que la funcionalidad de la historia de usuario multiplicar fuera correcta y hasta que estas pruebas no estuvieran realizadas no se podria pasar a inicializar dicha historia de usuario 
+
+- Multiplicar, esta tarea se utilizara para inicializar la H usuario 3, consistira en multiplicar dos números naturales
+	
+- Refactoring de multiplicar, en esta tarea se intentara mejorar el codigo de la historia de usuario y por ultimo se dará por finalizada
