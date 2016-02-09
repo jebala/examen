@@ -1,0 +1,6 @@
+Se haran los test para la resta de dos números naturales, y el resultado dara lo llamado "error" que sería que no diera un número natural 
+
+La siguiente funcionalidad se comprobaran la no solución de números naturales como los siguientes ejemplos:
+
+4-5=-2
+2-4=-2
