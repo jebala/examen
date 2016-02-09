@@ -1,0 +1,6 @@
+Se haran la equivalencia de los diferentes números romanos a los números.
+
+La siguiente funcionalidad sera por ejemplo la conversión de 
+
+x=10
+M=1000
