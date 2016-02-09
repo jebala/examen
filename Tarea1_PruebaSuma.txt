@@ -1,0 +1,6 @@
+Se haran los test para la suma de dos números naturales.
+
+La siguiente funcionalidad se comprobaran como por ejemplo lo siguiente:
+
+4+4=8
+2+5=10
